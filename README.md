@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300" width="300" src="https://raw.githubusercontent.com/lbrndnr/Rooftop Underground-macos/master/Rooftop Underground/Assets.xcassets/AppIcon.appiconset/AppIcon512@2x.png" />
+<img height="300" width="300" src="https://raw.githubusercontent.com/lbrndnr/Rooftop Underground-macos/master/Rooftop Underground/Assets.xcassets/AppIcon.appiconset/RooftopUndergroundSpeaker.png" />
 </p>
 
 <h1 align="center">Rooftop Underground</h1>
